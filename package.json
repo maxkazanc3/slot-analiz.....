@@ -1,0 +1,33 @@
+{
+  "name": "slot-analiz",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "vercel-build": "next build"
+  },
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "next": "13.4.12",
+    "puppeteer-core": "^19.11.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}{
+  "name": "slot-analiz",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "vercel-build": "next build"
+  },
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "next": "13.4.12",
+    "puppeteer-core": "^19.11.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
